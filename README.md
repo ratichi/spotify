@@ -27,7 +27,7 @@ Use the link down below to check out the clone:
 The deployment is done using Vercel.
 
 ## ✏️ Author
-Gamekohl
+Ratichi
 
 ## 🔑 License
 This project is licensed under the MIT License - see the LICENSE file for details
